@@ -8,7 +8,7 @@ export const env = {
 
   // Servidor de E-Mail Ubuntu-Server
   BASE_URL_API_SENDMAIL: "http://192.168.0.21:3030",
-  SENDMAIL_AUTH: "Basic dGkwNDpFdHRAMjAyNA==",
+  SENDMAIL_AUTH: "Basic SECRET",
 
   // Serviço LOGS
   LOG_PATH: "/home/dev/errorLogs",
