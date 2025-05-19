@@ -1,7 +1,7 @@
 export const env = {
   APP: "ETT",
   PORT: "3002",
-  JWT_SECRET: "portal_adm_ett",
+  JWT_SECRET: "SECRET",
 
   // Integração com Banco de Dados Oracle (Globus)
   BASE_URL_API_GLOBUS: "http://192.168.0.21:8000/globus",
